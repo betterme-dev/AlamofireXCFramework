@@ -1,3 +1,3 @@
 # AlamofireXCFramework
 
-A description of this package.
+Package for Alamofire version `5.4.1`
