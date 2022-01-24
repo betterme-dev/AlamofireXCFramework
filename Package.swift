@@ -21,6 +21,6 @@ let package = Package(
         .binaryTarget(
             name: "Alamofire",
             url: "https://github.com/betterme-dev/AlamofireXCFramework/releases/download/5.4.4/Alamofire.xcframework.zip",
-            checksum: "94aa0509a29c6dae58c14eb573aa01a5baff5ce63506e1ac29de3358efa95d31"),
+            checksum: "dce8fae724b54dd71d74ec595f6645f918d03d51393e3046675bf8baec7b380c"),
     ]
 )
