@@ -20,7 +20,7 @@ let package = Package(
         // Targets can depend on other targets in this package, and on products in packages this package depends on.
         .binaryTarget(
             name: "Alamofire",
-            url: "https://github.com/betterme-dev/AlamofireXCFramework/releases/download/5.4.4/Alamofire.xcframework.zip",
+            url: "https://github.com/betterme-dev/AlamofireXCFramework/releases/download/1.0.1/Alamofire.xcframework.zip",
             checksum: "dce8fae724b54dd71d74ec595f6645f918d03d51393e3046675bf8baec7b380c"),
     ]
 )
